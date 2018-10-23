@@ -17,7 +17,7 @@
             </a>
         </div>
         <div class="content-body">
-            <div class="success-text">Success!</div>
+            <div class="success-text">Success! Welcome to ShenZhen!</div>
             <div class="description line-1"> Cloud DevOps Project has been successfully setup</div>
             <div class="description line-2"> Your Laravel PHP app is up and running on Cloud</div>
             <div class="next-steps-container">
